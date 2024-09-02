@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estou focado em fazer projetos para desenvolvimento pessoal.<br>Atualmente aprendendo sobre C#, MVC, Angular.<br>
+Atualmente aprendendo sobre C#, MVC, Angular.<br>
 
 
 # 💻 Tech Stack:
