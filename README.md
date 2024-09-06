@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente aprendendo sobre C#, MVC, Angular.<br>
+Learning about C#, MVC, Angular.<br>
 
 
 # 💻 Tech Stack:
